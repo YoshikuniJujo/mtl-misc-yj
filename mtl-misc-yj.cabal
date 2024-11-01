@@ -5,7 +5,7 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           mtl-misc-yj
-version:        0.1.0.1
+version:        0.1.0.2
 synopsis:       tribial tools about mtl
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/test_haskell/tree/master/themes/monad/mtl-misc-yj#readme>
 category:       Control
