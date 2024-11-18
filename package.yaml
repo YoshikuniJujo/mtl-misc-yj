@@ -1,5 +1,5 @@
 name:                mtl-misc-yj
-version:             0.1.0.2
+version:             0.1.0.3
 github:              "YoshikuniJujo/mtl-misc-yj"
 license:             BSD3
 author:              "Yoshikuni Jujo"
@@ -38,7 +38,7 @@ library:
   source-dirs: src
 
 tests:
-  try-monads-tf-misc-yj-test:
+  mtl-misc-yj-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:
@@ -46,4 +46,4 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - try-monads-tf-misc-yj
+    - mtl-misc-yj
